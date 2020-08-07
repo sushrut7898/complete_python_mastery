@@ -21,7 +21,7 @@ print(course)
 # \"
 # \'
 # \\
-# \n
+# \n New Line
 
 # Formatted Strings
 first = "Sushrut"
