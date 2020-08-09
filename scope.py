@@ -8,16 +8,17 @@ def greet(name):
 def send(name):  # local parameter
     message = "Sush"
     msg = "b"
-    
+
 
 send("a")
 print(msg)
+
 
 def s(name):  # local parameter
     message = "Sush"
     global msg
     msg = "b"
-    
+
 
 s("a")
 print(msg)
