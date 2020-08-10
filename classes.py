@@ -1,6 +1,9 @@
 # Class: blueprint for creating new objects eg.Human
 # Object: instance of a class eg.John,Mary
 
+
+#object is base class for all classes in python
+
 class Point:
     default_color = "red"
 

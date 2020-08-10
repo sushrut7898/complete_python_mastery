@@ -20,5 +20,5 @@ xfactor = calculate_xfactor(-1)
 if xfactor == None:
     pass
 """
-print("first code=", timeit(code1, number = 10000))
+print("first code=", timeit(code1, number=10000))
 print("second code=", timeit(code1, number=10000))
